@@ -26,7 +26,7 @@ public class Audio {
         this.totalCurtidas++;
     }
 
-    public reproduz() {
+    public void reproduz() {
         this.totalReproducoes++;
     }
 }
